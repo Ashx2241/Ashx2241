@@ -2,63 +2,51 @@
 
 ### Computer Science Engineering Student | Full-Stack Developer | ML Enthusiast
 
-I'm a **B.Tech Computer Science Engineering student** interested in building practical software, full-stack applications, Machine Learning solutions, and IoT systems.
+I'm a **B.Tech Computer Science Engineering student** passionate about building practical software, full-stack applications, Machine Learning solutions, and IoT systems.
 
-I enjoy turning ideas into working applications and continuously improving my development and problem-solving skills.
+I enjoy turning ideas into real-world applications and continuously improving my development, problem-solving, and software engineering skills.
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🌐 Full-Stack Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Development Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ### 🤖 Machine Learning & IoT
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0082FC?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/IoT-0082FC?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
 </p>
-
----
-
-## 🧠 Areas of Interest
-
-* Full-Stack Web Development
-* Java & Python Development
-* Machine Learning
-* Database Management
-* Internet of Things
-* Software Engineering
-* Problem Solving
 
 ---
 
@@ -68,25 +56,25 @@ I enjoy turning ideas into working applications and continuously improving my de
 
 A full-stack web application for managing and tracking recurring subscriptions.
 
-**Tech Stack:** React · Next.js · Node.js · TypeScript · PostgreSQL · Prisma
+**Technologies:** React · Next.js · Node.js · TypeScript · PostgreSQL · Prisma
 
-🔗 **Repository:** [Subscription-Trimmer](https://github.com/Ashx2241/Subscription-Trimmer)
+🔗 [View Repository](https://github.com/Ashx2241/Subscription-Trimmer)
 
 ---
 
 ### 🛍️ E-Commerce Counterfeit Product Detection
 
-A Machine Learning project designed to identify potentially counterfeit products using product-related data and text-based features.
+A Machine Learning project focused on identifying potentially counterfeit products using product-related data and text-based features.
 
-**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · TF-IDF · Cosine Similarity
+**Technologies:** Python · Pandas · NumPy · Scikit-learn · TF-IDF · Cosine Similarity
 
 ---
 
 ### 🔒 Smart Locking System
 
-An IoT-based smart locking system using RFID authentication, ESP8266, servo motor and OLED display with email-based verification.
+An IoT-based smart locking system using RFID authentication, ESP8266, servo motor, and OLED display with email-based verification.
 
-**Tech Stack:** ESP8266 · RFID · IoT · Servo Motor · OLED · Embedded Systems
+**Technologies:** ESP8266 · RFID · IoT · Servo Motor · OLED · Embedded Systems
 
 ---
 
@@ -94,53 +82,63 @@ An IoT-based smart locking system using RFID authentication, ESP8266, servo moto
 
 A web-based DBMS project designed to manage medical reimbursement information and related records.
 
-**Tech Stack:** HTML · CSS · SQL · Database Management
+**Technologies:** HTML · CSS · SQL · Database Management
 
 ---
 
-## 📊 GitHub Statistics
+### 📝 Note Making Application
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Ashx2241&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Ashx2241&theme=github-dark" alt="Ashwin's GitHub statistics" />
-  </picture>
-</p>
+A simple web-based note-taking application for creating and managing notes.
+
+**Technologies:** HTML · CSS · JavaScript
 
 ---
 
-## 📈 GitHub Languages
+## 🎯 Areas of Interest
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Ashx2241&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Ashx2241&theme=github-dark" alt="Ashwin's GitHub language statistics" />
-  </picture>
-</p>
-
-> The language visualization is generated from the code detected across my GitHub repositories.
-
----
-
-## 🎯 Currently Focusing On
-
-* Building full-stack applications
-* Strengthening Java and Python
-* Improving backend development
-* Working with databases and APIs
-* Developing Machine Learning projects
-* Building better real-world software projects
+* Full-Stack Web Development
+* Java Development
+* Python Development
+* Machine Learning
+* Database Management
+* IoT
+* Software Engineering
+* Problem Solving
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Currently Learning
+
+* Advanced Full-Stack Development
+* Backend Development
+* Java
+* Python
+* Machine Learning
+* Database Systems
+* Cloud & Modern Web Technologies
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <a href="https://github.com/Ashx2241">
-    <img src="https://img.shields.io/badge/GitHub-Ashx2241-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Ashx2241-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashx2241&style=for-the-badge&color=blue" alt="Profile views" />
+  <a href="https://github.com/Ashx2241">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
